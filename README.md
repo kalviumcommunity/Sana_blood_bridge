@@ -28,3 +28,9 @@ This capstone aims to build a full-stack web application that allows:
 - **Day 12:** Implement search & filter functionality.
 - **Day 13:** Final UI touches.
 - **Day 14:** Testing, deployment prep & final review.
+
+## 📦 Tech Stack (Planned)
+- React (Frontend)
+- Node.js + Express (Backend)
+- MongoDB (Database)
+- GitHub Actions (CI/CD)
