@@ -33,4 +33,4 @@ This capstone aims to build a full-stack web application that allows:
 - React (Frontend)
 - Node.js + Express (Backend)
 - MongoDB (Database)
-- GitHub Actions (CI/CD)
+- GitHub Actions
