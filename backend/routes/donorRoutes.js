@@ -1,7 +1,11 @@
 const express = require('express');
 const router = express.Router();
-const { getAllDonors } = require('../controllers/donorController');
+const { getDonors, createDonor } = require('../controllers/donorController');
 
-router.get('/donors', getAllDonors);
+// GET all donors
+router.get('/', getDonors);
+
+// POST a new donor
+router.post('/', createDonor);
 
 module.exports = router;
